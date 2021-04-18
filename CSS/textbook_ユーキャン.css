@@ -1,0 +1,15 @@
+body{font-family:"UD Digi Kyokasho NK-R",Times,serif;}
+sup{line-height:0;}
+p{text-align:justify;}
+table{border-collapse:collapse;}
+h1{font-size:1.4em;}
+h2{font-size:1.3em;}
+h3{font-size:1.2em;}
+h4{font-size:1.1em;}
+h5{font-size:1em;}
+h5{font-size:0.9em;}
+div{display: inline;}
+.white{color:#ffffff;background-color:#808080;}
+.black{background-color:#eaeaea;}
+p.bd{border:1px solid;margin-top:0px;}
+p.ft{font-size:0.9em;margin-top:0px;}
