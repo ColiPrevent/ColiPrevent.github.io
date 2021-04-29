@@ -2,13 +2,13 @@ body{font-family:"UD Digi Kyokasho NK-R",Times,serif;}
 sup{line-height:0;}
 p{text-align:justify;}
 table{border-collapse:collapse;}
-h1{font-size:1.4em;}
-h2{font-size:1.3em;}
-h3{font-size:1.2em;}
-h4{font-size:1.1em;}
-h5{font-size:1em;}
-h5{font-size:0.9em;}
-div{display: inline;}
+h1{font-size:1.6em;}
+h2{font-size:1.5em;}
+h3{font-size:1.4em;}
+h4{font-size:1.3em;}
+h5{font-size:1.2em;}
+h6{font-size:1.1em;}
+h7{font-size:1em;font-weight:bold;}
 .white{color:#ffffff;background-color:#808080;}
 .black{background-color:#eaeaea;}
 p.bd{border:1px solid;margin-top:0px;}
